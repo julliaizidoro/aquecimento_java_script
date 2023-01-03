@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  display: inline-block;
+  background-color:#eee;
+  color: #eee;
+  width: 50px;
+  font-size: 60px;
+  padding: 40px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.jogador, .vencedor{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: aquamarine;
+    border: none;
+    height: 40px;
+    width: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+    margin-top: 10px;
+  }
